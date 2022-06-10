@@ -1,0 +1,9 @@
+
+ƒtypescript:S11720"gRemove the unused function parameter "thunkAPI" or rename it to "_thunkAPI" to make intention explicit.(à¦…Ë
+ƒtypescript:S1172F"gRemove the unused function parameter "thunkAPI" or rename it to "_thunkAPI" to make intention explicit.(®å¡
+’typescript:S4822G"qConsider using 'await' for the promise inside this 'try' or replace it with 'Promise.prototype.catch(...)' usage.(¡»¢üùÿÿÿÿ
+Rtypescript:S1854I"1Remove this useless assignment to variable "res".(àıÆ™ùÿÿÿÿ
+typescript:S1172["cRemove the unused function parameter "action" or rename it to "_action" to make intention explicit.(²¸êï
+„typescript:S1172d"cRemove the unused function parameter "action" or rename it to "_action" to make intention explicit.(¬Ÿ¥ïúÿÿÿÿ
+typescript:S1172h"cRemove the unused function parameter "action" or rename it to "_action" to make intention explicit.(¬Ûë
+„typescript:S1172o"cRemove the unused function parameter "action" or rename it to "_action" to make intention explicit.(ÿ˜¤¢ıÿÿÿÿ

@@ -1,0 +1,49 @@
+
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "Employee" 3 times.(ÃúÒãùÿÿÿÿ
+c
+java:S11923"HDefine a constant instead of duplicating this literal "Manager" 3 times.(ù‘¡ôıÿÿÿÿ
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "userRole" 3 times.(ÃúÒãùÿÿÿÿ
+b
+java:S11920"GDefine a constant instead of duplicating this literal "userId" 3 times.(Şƒ§„ıÿÿÿÿ
+}
+java:S1104"bMake handleUserRegistration a static final constant or non-public and provide accessors if needed.(Ã ›ãıÿÿÿÿ
+q
+java:S1104#"[Make handleUserLogin a static final constant or non-public and provide accessors if needed.(Á¤®
+w
+java:S1104:"\Make handleUserLogout a static final constant or non-public and provide accessors if needed.(®ìÀªÿÿÿÿÿ
+u
+java:S1104@"ZMake handleViewUser a static final constant or non-public and provide accessors if needed.(Œæ‚ıÿÿÿÿ
+q
+java:S1104R"[Make handleViewUsers a static final constant or non-public and provide accessors if needed.(ˆ¥
+r
+java:S1104a"\Make handleUpdateUser a static final constant or non-public and provide accessors if needed.(¢ÓäŒ
+y
+java:S1104x"\Make handleDeleteUser a static final constant or non-public and provide accessors if needed.(ÌØ†¿8ì¥£ë’0
+Y
+java:S4973}"<Strings and Boxed types should be compared using "equals()".(ÛÍ8ï¥£ë’0
+Y
+java:S4973}"<Strings and Boxed types should be compared using "equals()".(ÛÍ8ï¥£ë’0
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ù¼¶Öşÿÿÿÿ8ğ¥£ë’0
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ù¼¶Öşÿÿÿÿ8Çƒæì’0
+L
+java:S1611"1Remove the parentheses around the "ctx" parameter(Ã ›ãıÿÿÿÿ
+G
+java:S1611#"1Remove the parentheses around the "ctx" parameter(Á¤®
+L
+java:S1611:"1Remove the parentheses around the "ctx" parameter(®ìÀªÿÿÿÿÿ
+L
+java:S1611@"1Remove the parentheses around the "ctx" parameter(Œæ‚ıÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(íüÜó
+G
+java:S1611R"1Remove the parentheses around the "ctx" parameter(ˆ¥
+Q	java:S125S"<This block of commented-out lines of code should be removed.(§åÌ½
+Q	java:S125\"<This block of commented-out lines of code should be removed.(ÉÄÿÚ
+G
+java:S1611a"1Remove the parentheses around the "ctx" parameter(¢ÓäŒ
+X	java:S125c"<This block of commented-out lines of code should be removed.(®„ú8à¾æì’0
+N
+java:S1611x"1Remove the parentheses around the "ctx" parameter(ÌØ†¿8•¦£ë’0

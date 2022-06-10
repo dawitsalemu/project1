@@ -1,0 +1,32 @@
+.options{
+    text-align: center;
+    width: 100px;
+    color: #856060;
+    width: 300px;
+    margin: auto;
+    padding: 2em;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 20px;
+    left      : 50%;
+    top       : 50%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+    text-align: center;
+}
+
+button{
+  height: 30px;
+  background-color: rgb(219, 198, 198);
+  color: rgb(48, 7, 7);
+  width: 100%;
+  border-style: none;
+  margin: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px #2D8DBD;
+}
+
+button:hover {
+  background-color: #008060;
+  color: white;
+}

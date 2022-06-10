@@ -1,0 +1,63 @@
+
+.employee-title{
+    background-color: #5c8a8a;
+}
+
+.employee-detail{
+    background-color: #334d4d;
+}
+
+.employee{
+    color: #f2f2f2;
+    margin: auto;
+    padding: 2em;
+    left      : 50%;
+    top       : 50%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+    width: max-content;
+  }
+
+th, td {
+    padding: 10px;
+    padding-left: 12px;
+    width: max-content;
+}
+
+tbody{
+    background-color: #334d4d;
+}
+
+tbody > tr:hover{
+    background-color: #008060;
+}
+
+table{
+    color: #f2f2f2;
+    margin: auto;
+    padding: 2em;
+    left      : 50%;
+    top       : 50%;
+    position  : absolute;
+    transform : translate(-50%, -50%);
+    width: max-content;
+}
+
+select {
+    border : none;
+    background-color: #c2d6d6;
+    font-weight: bold;
+}
+
+.create-btn{
+    height: 30px;
+    background-color: rgb(219, 198, 198);
+    color: rgb(48, 7, 7);
+    border-style: none;
+    color: #f2f2f2;
+    margin: auto;
+    padding: 2em;
+    left      : 50%;
+    top       : 50%;
+    transform : translate(-155%, -130%);
+}

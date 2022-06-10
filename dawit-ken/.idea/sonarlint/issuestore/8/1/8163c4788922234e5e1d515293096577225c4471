@@ -1,0 +1,7 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "manager" 3 times.(„ìÓĞ8˜Ë¼íŒ0
+f
+java:S1192"IDefine a constant instead of duplicating this literal "employee" 3 times.(öïõß8šË¼íŒ0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ¬´½8ÀË¼íŒ0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„¬»Î8ÁË¼íŒ0

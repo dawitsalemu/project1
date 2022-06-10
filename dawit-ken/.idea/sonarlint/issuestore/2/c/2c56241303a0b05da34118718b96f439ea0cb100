@@ -1,0 +1,19 @@
+
+i
+java:S1104"NMake cs a static final constant or non-public and provide accessors if needed.(¹ğÄ¼úÿÿÿÿ
+j
+java:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+j
+java:S2095p"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+j
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+j
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+j
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+P
+java:S1117"5Rename "c" which hides the field declared at line 13.(şá¹¢øÿÿÿÿ
+A
+java:S1168V"+Return an empty collection instead of null.(¥¹ï

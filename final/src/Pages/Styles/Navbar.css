@@ -1,0 +1,48 @@
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #00334d;
+}
+
+li {
+    float: left;
+}
+
+.nav-link {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    height: 35px;
+}
+
+li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color: #008060;
+    color: white;
+}
+
+.logout{
+    float: right;
+}
+
+.post-image {
+    /* width: 35px;
+    height: 100%; */
+    border-radius: 100%;
+    height: 30px;
+}
+
+.user-name{
+    padding-top:10px;
+    display: inline;
+    text-align: center;
+}

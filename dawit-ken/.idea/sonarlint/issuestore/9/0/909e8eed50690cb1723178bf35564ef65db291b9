@@ -1,0 +1,13 @@
+
+†
+java:S4165"dRemove this useless assignment; "typeId" already holds the assigned value along all execution paths.(Œæäûÿÿÿÿ8å‡ãìŒ0
+†
+java:S41650"dRemove this useless assignment; "typeId" already holds the assigned value along all execution paths.(Œæäûÿÿÿÿ8¦ÕåìŒ0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÅØ¸8”­ÖìŒ0
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Í§¶8•­ÖìŒ0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚…Í­ùÿÿÿÿ8•­ÖìŒ0
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿë™§şÿÿÿÿ8•­ÖìŒ0
+Q
+java:S1656"/Remove or correct this useless self-assignment.(Œæäûÿÿÿÿ8ö‡ãìŒ0
+Q
+java:S16560"/Remove or correct this useless self-assignment.(Œæäûÿÿÿÿ8°ÕåìŒ0

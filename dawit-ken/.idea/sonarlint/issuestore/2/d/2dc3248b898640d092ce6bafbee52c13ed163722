@@ -1,0 +1,9 @@
+
+`
+java:S2095"EUse try-with-resources or close this "Javalin" in a "finally" clause.(À–ßÎÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(À–ßÎÿÿÿÿÿ
+n
+java:S1612"SReplace this lambda with method reference 'JavalinConfig::enableCorsForAllOrigins'.(À–ßÎÿÿÿÿÿ
